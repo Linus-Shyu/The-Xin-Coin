@@ -20,4 +20,4 @@ I urgently need a fee to deploy TXC to the exchange for trading, but I don't hav
 
 ### Contact the developer
 
-如果你发现该合约的漏洞，或想要修改代码并发布，请联系我的电子邮件[Linus Shyu email](linusshyu@gmail.com)
+If you find a bug in this contract, or want to modify the code and publish it, please contact my email[Linus Shyu email](linusshyu@gmail.com)
