@@ -14,7 +14,7 @@ Then use this https://oneclickdapp.com/ to deploy the front-end page, and the TX
 
 I urgently need a fee to deploy TXC to the exchange for trading, but I don't have enough Ethereum. If you are willing to donate to this digital cryptocurrency project, please make a donation at the official wallet address of TXC. I would like to thank everyone here.
 
-```sol
+```
 0xC107a9123fB6a38635e9f939Be366ff1B17C29Ab
 ```
 
